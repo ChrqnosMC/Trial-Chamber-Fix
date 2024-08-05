@@ -14,7 +14,7 @@
 		"show_toast": false,
 		"announce_to_chat": false
 	},
-	"parent": "minecraft:root",
+	"parent": "minecraft:datapack/root",
 	"criteria": {
 		"tick": {
 			"trigger": "minecraft:tick"
