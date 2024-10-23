@@ -40,6 +40,7 @@ jobs:
         with:
           modrinth-token: ${{secrets.ACCESS_TOKEN}}
           modrinth-id: QDbErUat
+          game-version-filter: none
           name: Trial Chamber Fix ${{env.branch}}-${{env.tag}}
           version: ${{env.tag}}
           files: |
