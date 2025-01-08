@@ -1,0 +1,1 @@
+tellraw @a ["",{"text":"Trial Chamber Fix datapack has been reloaded"}]
