@@ -1,9 +1,11 @@
 {
-  "pack": {
-    "pack_format": 81,
-    "supported_formats": [45,81],
-    "description": "Trial Chamber Fix"
-  },
+	"pack": {
+		"pack_format": 88,
+		"supported_formats": [45,88],
+		"min_format": [45,0],
+		"max_format": [88,0],
+		"description": "Trial Chamber Fix"
+	},
 	"overlays": {
 		"entries": [
 			{
