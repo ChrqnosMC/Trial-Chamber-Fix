@@ -1,18 +1,17 @@
 {
 	"pack": {
-		"pack_format": 88,
-		"supported_formats": [45,88],
+		"pack_format": 94,
+		"supported_formats": [45,94],
 		"min_format": [45,0],
-		"max_format": [88,0],
+		"max_format": [94,1],
 		"description": "Trial Chamber Fix"
 	},
 	"overlays": {
 		"entries": [
 			{
-				"formats": {
-					"min_inclusive": 45,
-					"max_inclusive": 56
-				},
+				"formats": [45,56],
+				"min_format": [45,0],
+				"max_format": [56,0],
 				"directory": "overlay_45"
 			}
 		]
